@@ -1,0 +1,137 @@
+/* This is the Adult.css Stylesheet file */
+
+
+body{
+background-image:url("bg2.png");
+
+background-repeat:no-repeat;
+
+background-size:cover;
+
+}
+h1.adult {
+	text-align: center;
+	font-family: "verdana";
+	font-size: 30px;
+	line-height: 50%;
+	color: White;
+}
+h2.adult {
+	text-align: center;
+	font-family: "verdana";
+	font-size: 28px;
+	line-height: 50%;
+	color: White;
+}
+span.heading {
+	font-style: italic;
+}
+p.adult {
+	text-align: center;
+	font-family: "verdana";
+	font-size: 18px;
+	line-height: 50%;
+	color: White;
+}
+div.adultone {
+	text-align: left;
+    border-style: dashed;
+    border-color: white;
+	border-width: 50%;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 500px;
+	padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+	
+}
+div.fontad {
+	font-family: "TT1C5t00";
+	font-style: normal;
+	font-size: 20px;
+	color: DarkRed;
+	
+}
+span.firstad{
+	display: inline-block;
+	width: 200px;
+}
+span.secondad{
+	display:inline-block; 
+	width: 210px;
+}
+span.thirdad{
+	display:inline-block; 
+	width: 200px;
+}
+span.fourthad{
+	display:inline-block; 
+	width: 200px;
+}
+span.fifthad{
+	display:inline-block; 
+	width: 400px;
+}
+span.ff1{
+	display:inline-block; 
+	width: 300px;
+}
+span.ff2{
+	display:inline-block; 
+	width: 300px;
+}
+span.ff3{
+	display:inline-block; 
+	width: 300px;
+}
+span.ff4{
+	display:inline-block; 
+	width: 300px;
+}
+span.ff5{
+	display:inline-block; 
+	width: 300px;
+}
+span.fonttypeadult {
+	text-align: left;
+	font-family: "Arial";
+	font-size: 18px;
+	color: darkred;
+}
+div.adulttwo {
+	text-align: "left";
+	font-family:"verdana";
+	font-size: 18px;
+    border-style: solid;
+    border-color: white;
+	border-width: 50%;
+	margin-right: 100px;
+	color: darkred;
+	
+}
+span.list2 {
+	text-align: "left";
+	font-family:"Times";
+	font-size: 22px;
+	color: darkred;
+}
+p.p2{
+	text-align: center;
+	font-family: "verdana";
+	font-size: 25px;
+	color: white;
+}
+
+input[type=text] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px dashed black;
+	background-color: transparent;
+}
+/* End of Adult.css Stylesheet file */

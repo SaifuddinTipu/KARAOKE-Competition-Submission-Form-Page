@@ -1,0 +1,137 @@
+/* This is the seniorcitizen.css Stylesheet file */
+
+
+body{
+background-image:url("bg3.png");
+
+background-repeat:no-repeat;
+
+background-size:cover;
+
+}
+h1.scitizen {
+	text-align: center;
+	font-family: "verdana";
+	font-size: 30px;
+	line-height: 50%;
+	color: Red;
+}
+h2.scitizen {
+	text-align: center;
+	font-family: "verdana";
+	font-size: 28px;
+	line-height: 50%;
+	color: Red;
+}
+span.heading {
+	font-style: italic;
+}
+div.scitizenone {
+	text-align: left;
+    border-style: dashed;
+    border-color: Red;
+	border-width: 50%;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 500px;
+	padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+	
+}
+div.fontsc {
+	font-family: "TT1C5t00";
+	font-style: normal;
+	font-size: 20px;
+	color: Blue;
+	
+}
+span.firstsc{
+	display: inline-block;
+	width: 200px;
+}
+span.secondsc{
+	display:inline-block; 
+	width: 210px;
+}
+span.thirdsc{
+	display:inline-block; 
+	width: 200px;
+}
+span.fourthsc{
+	display:inline-block; 
+	width: 200px;
+}
+span.fifthsc{
+	display:inline-block; 
+	width: 400px;
+}
+
+div.scitizentwo {
+	text-align: "left";
+	font-family:"verdana";
+	font-size: 18px;
+    border-style: solid;
+    border-color: Red;
+	border-width: 50%;
+	margin-right: 100px;
+	color: Blue;
+	
+}
+span.list3 {
+	text-align: "left";
+	font-family:"Times";
+	font-size: 22px;
+	color: Red;
+}
+p.scitizen {
+	text-align: center;
+	font-family: "verdana";
+	font-size: 18px;
+	line-height: 50%;
+	color: Red;
+}
+p.p3{
+	text-align: center;
+	font-family: "Verdana";
+	font-size: 25px;
+	color: Red;
+}
+span.sff1{
+	display:inline-block; 
+	width: 300px;
+}
+span.sff2{
+	display:inline-block; 
+	width: 300px;
+}
+span.sff3{
+	display:inline-block; 
+	width: 300px;
+}
+span.sff4{
+	display:inline-block; 
+	width: 300px;
+}
+span.sff5{
+	display:inline-block; 
+	width: 300px;
+}
+span.fonttypescitizen {
+	text-align: left;
+	font-family: "Arial";
+	font-size: 18px;
+	color: Blue;
+}
+input[type=text] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: dashed;
+	border-color: Blue;
+    border-bottom: 2px dashed Blue;
+}
+/* End of seniorcitizen.css Stylesheet file */

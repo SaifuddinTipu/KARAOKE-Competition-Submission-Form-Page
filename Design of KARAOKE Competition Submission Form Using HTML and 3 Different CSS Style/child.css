@@ -1,0 +1,129 @@
+/* This is the Child.css Stylesheet file */
+
+
+body{
+background-image:url(bg1.png);
+
+background-repeat:no-repeat;
+
+background-size:cover;
+
+}
+h1.child {
+	text-align: center;
+	font-family: "Times New Roman";
+	font-size: 30px;
+	line-height: 50%;
+}
+h2.child {
+	text-align: center;
+	font-family: "Times New Roman";
+	font-size: 28px;
+	line-height: 50%;
+}
+span.heading {
+	font-style: italic;
+}
+p.child {
+	text-align: center;
+	font-family: "Times New Roman";
+	font-size: 18px;
+	line-height: 50%;
+}
+div.childone {
+	text-align: left;
+    border-style: dashed;
+    border-color: grey;
+	border-width: 50%;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 500px;
+	padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+	
+}
+div.font {
+	font-family: "TT1C5t00";
+	font-style: normal;
+	font-size: 20px;
+}
+span.first{
+	display: inline-block;
+	width: 200px;
+}
+span.second{
+	display:inline-block; 
+	width: 210px;
+}
+span.third{
+	display:inline-block; 
+	width: 200px;
+}
+span.fourth{
+	display:inline-block; 
+	width: 200px;
+}
+span.fifth{
+	display:inline-block; 
+	width: 400px;
+}
+
+div.childtwo {
+	text-align: "left";
+	font-family:"verdana";
+	font-size: 18px;
+    border-style: solid;
+    border-color: black;
+	border-width: 50%;
+	margin-right: 100px;
+	
+}
+span.list {
+	text-align: "left";
+	font-family:"verdana";
+	font-size: 22px;
+}
+p.p1{
+	text-align: center;
+	font-family: "Times New Roman";
+	font-size: 25px;
+}
+span.f1{
+	display:inline-block; 
+	width: 300px;
+}
+span.f2{
+	display:inline-block; 
+	width: 300px;
+}
+span.f3{
+	display:inline-block; 
+	width: 300px;
+}
+span.f4{
+	display:inline-block; 
+	width: 300px;
+}
+span.f5{
+	display:inline-block; 
+	width: 300px;
+}
+span.fonttype {
+	text-align: left;
+	font-family: "Arial";
+	font-size: 18px;
+}
+input[type=text] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px dashed black;
+	background-color: transparent;
+}
+
+/* End of child.css Stylesheet file */
