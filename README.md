@@ -1,4 +1,4 @@
-# Design-of-KARAOKE-Competition-Submission-Form-Page-Using-HTML-and-3-Different-CSS-Style
+# KARAOKE-Competition-Submission-Form-Page
 
 Three .css files (style sheets), each with a different theme: kids, adults and senior citizens. 
 
